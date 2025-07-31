@@ -1,6 +1,5 @@
 ### 📌 Null Values Checker
 
-```markdown
 # 📊 Null Values Checker
 
 ## 📝 Description
