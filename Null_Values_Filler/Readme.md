@@ -3,14 +3,14 @@
 # 📊 Null Values Checker
 
 ## 📝 Description
-A Python script to scan and report missing/null values in any dataset. Helps during initial EDA by giving a clear picture of data completeness.
+A Python script to scan and fill missing/null values in any dataset. Helps during initial EDA by giving a clear picture of data completeness.
 
 ---
 
 ## ⚙️ Features
 - Detects null values in each column
 - Displays count and percentage of missing data
-- Option to visualize null distribution
+- Can fill null values using various methods
 
 ---
 
