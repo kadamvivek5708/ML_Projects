@@ -38,5 +38,3 @@ A collection of simple but essential machine learning/data preprocessing tools c
 - Pandas
 - Jupyter Notebooks
 
-git clone https://github.com/yourusername/basic-ml-utilities.git
-cd basic-ml-utilities
